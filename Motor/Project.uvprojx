@@ -760,6 +760,16 @@
               <FileType>5</FileType>
               <FilePath>.\Foc\Motor.h</FilePath>
             </File>
+            <File>
+              <FileName>Lowpass.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Foc\Lowpass.c</FilePath>
+            </File>
+            <File>
+              <FileName>Lowpass.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Foc\Lowpass.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

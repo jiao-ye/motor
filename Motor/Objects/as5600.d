@@ -31,3 +31,15 @@
 .\objects\as5600.o: .\Library\misc.h
 .\objects\as5600.o: Hardware\Delay.h
 .\objects\as5600.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\math.h
+.\objects\as5600.o: .\Foc\FOC.h
+.\objects\as5600.o: .\Hardware\AS5600.h
+.\objects\as5600.o: .\Hardware\Pwm.h
+.\objects\as5600.o: .\Foc\Lowpass.h
+.\objects\as5600.o: .\Hardware\Usart.h
+.\objects\as5600.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\as5600.o: .\Foc\Motor.h
+.\objects\as5600.o: .\Foc\Pid.h
+.\objects\as5600.o: .\Hardware\Adc.h
+.\objects\as5600.o: .\Foc\Lowpass.h
+.\objects\as5600.o: .\Hardware\Usart.h
+.\objects\as5600.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\string.h

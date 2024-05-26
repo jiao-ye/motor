@@ -32,7 +32,14 @@
 .\objects\foc.o: .\Hardware\AS5600.h
 .\objects\foc.o: .\Hardware\Delay.h
 .\objects\foc.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\math.h
+.\objects\foc.o: .\Foc\FOC.h
+.\objects\foc.o: .\Foc\Lowpass.h
 .\objects\foc.o: .\Hardware\Usart.h
 .\objects\foc.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\foc.o: .\Foc\Motor.h
+.\objects\foc.o: .\Foc\Pid.h
+.\objects\foc.o: .\Hardware\Adc.h
+.\objects\foc.o: .\Foc\Lowpass.h
+.\objects\foc.o: .\Hardware\Usart.h
+.\objects\foc.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\string.h
 .\objects\foc.o: .\Hardware\Pwm.h
-.\objects\foc.o: Foc\Pid.h

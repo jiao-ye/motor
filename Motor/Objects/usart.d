@@ -30,3 +30,15 @@
 .\objects\usart.o: .\Library\stm32f10x_usart.h
 .\objects\usart.o: .\Library\stm32f10x_wwdg.h
 .\objects\usart.o: .\Library\misc.h
+.\objects\usart.o: .\Foc\Motor.h
+.\objects\usart.o: .\Foc\FOC.h
+.\objects\usart.o: .\Hardware\AS5600.h
+.\objects\usart.o: .\Hardware\Delay.h
+.\objects\usart.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\math.h
+.\objects\usart.o: .\Foc\FOC.h
+.\objects\usart.o: .\Foc\Lowpass.h
+.\objects\usart.o: .\Hardware\Usart.h
+.\objects\usart.o: .\Hardware\Pwm.h
+.\objects\usart.o: .\Foc\Pid.h
+.\objects\usart.o: .\Hardware\Adc.h
+.\objects\usart.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\string.h

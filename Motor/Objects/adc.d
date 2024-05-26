@@ -29,3 +29,17 @@
 .\objects\adc.o: .\Library\stm32f10x_usart.h
 .\objects\adc.o: .\Library\stm32f10x_wwdg.h
 .\objects\adc.o: .\Library\misc.h
+.\objects\adc.o: Hardware\Delay.h
+.\objects\adc.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\math.h
+.\objects\adc.o: .\Foc\Lowpass.h
+.\objects\adc.o: .\Foc\FOC.h
+.\objects\adc.o: .\Hardware\AS5600.h
+.\objects\adc.o: .\Foc\FOC.h
+.\objects\adc.o: .\Foc\Lowpass.h
+.\objects\adc.o: .\Hardware\Pwm.h
+.\objects\adc.o: .\Hardware\Usart.h
+.\objects\adc.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\adc.o: .\Foc\Motor.h
+.\objects\adc.o: .\Foc\Pid.h
+.\objects\adc.o: .\Hardware\Adc.h
+.\objects\adc.o: F:\51means\C51\ARM\ARMCC\Bin\..\include\string.h
